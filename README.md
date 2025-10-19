@@ -16,7 +16,7 @@ Predict laptop prices from specifications using a Random Forest model. Includes 
 3. `streamlit run app.py`
 
 ## Demo
-[💻 Live Demo of Laptop Price Prediction App](https://github.com/Meghana080702/laptop-price-prediction/blob/main/app.py)
+[💻 Live Demo of Laptop Price Prediction App](https://laptop-price-prediction-e4zj3gsymekwi9ndvaj2nk.streamlit.app/)
 
 
 ## Author
