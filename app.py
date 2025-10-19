@@ -63,3 +63,6 @@ input_df = input_df[model_columns]  # Ensure correct column order
 if st.button("Predict Price"):
     prediction = model.predict(input_df)[0]
     st.success(f"💰 Estimated Laptop Price: ₹{prediction:,.2f}")
+
+import os
+stripe_api_key = os.getenv("STRIPE_API_KEY")
