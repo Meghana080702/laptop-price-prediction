@@ -1,1 +1,1 @@
-.venv/
+echo ".venv/" >> .gitignore
