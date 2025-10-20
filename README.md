@@ -7,7 +7,7 @@ Predict laptop prices from specifications using a Random Forest model. Includes 
 - `model.pkl` — trained Random Forest model
 - `model_columns.pkl` — saved training columns (for app input alignment)
 - `app.py` — Streamlit web app
-- `data/laptop_data.csv` — dataset (if included)
+- `data/laptop_data.csv` — dataset
 - `requirements.txt` — dependencies
 
 ## Run locally
